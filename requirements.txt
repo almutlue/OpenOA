@@ -1,1 +1,1 @@
-openoa==3.1.3
+openoa[reanalysis]==3.1.3
